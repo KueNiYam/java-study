@@ -1,4 +1,4 @@
-package study;
+package etc;
 
 /**
  * break label 에 관한 예제

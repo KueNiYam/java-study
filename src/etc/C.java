@@ -1,4 +1,4 @@
-package study;
+package etc;
 
 /**
  * 가변 인수에 대한 예제

@@ -1,4 +1,4 @@
-package study;
+package etc;
 
 public class A {
    public static void test () {
