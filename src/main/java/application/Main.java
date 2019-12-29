@@ -2,6 +2,7 @@ package application;
 
 import fileio.ReadText;
 import serialize.SerialStream;
+import threadClass.WordThread;
 
 import java.util.Scanner;
 
@@ -13,5 +14,6 @@ public class Main {
         // System.out.println(C.sum(new int[]{1,2,3,4,5}));
         // ReadText.test();
         // SerialStream.test();
+        // WordThread.test();
     }
 }
